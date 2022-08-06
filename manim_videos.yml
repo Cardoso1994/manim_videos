@@ -1,0 +1,8 @@
+name: manim_videos
+
+dependencies:
+  - python=3.8
+  - numpy
+  - matplotlib
+  - scipy
+  - ipython
